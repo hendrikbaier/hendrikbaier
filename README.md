@@ -1,6 +1,6 @@
 # About Me
 
-I'm Hendrik Baier, a Computer Science student at FH Aachen. I’m especially interested in infrastructure, automation, and development workflows.
+I'm Hendrik Baier, a Software Developer at Docs in Clouds. I’m especially interested in infrastructure, automation, and development workflows.
 
 ## Currently Learning
 
